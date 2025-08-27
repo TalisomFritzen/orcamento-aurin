@@ -1,0 +1,16 @@
+{
+  "name": "orcamento-aurin",
+  "version": "1.0.0",
+  "description": "Sistema de Orçamentos - Aurin Arquitetura",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'Build completed'"
+  },
+  "dependencies": {
+    "sqlite": "^5.1.1",
+    "sqlite3": "^5.1.6"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
